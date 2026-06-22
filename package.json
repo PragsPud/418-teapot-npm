@@ -1,0 +1,21 @@
+{
+  "name": "418-teapot",
+  "version": "1.0.0",
+  "description": "An Express middleware that refuses to brew coffee (HTTP 418).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "418",
+    "teapot",
+    "coffee"
+  ],
+  "author": "PragsPud",
+  "license": "MIT",
+  "peerDependencies": {
+    "express": "^5.2.1"
+  }
+}
